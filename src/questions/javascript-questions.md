@@ -21,6 +21,7 @@ permalink: /questions/javascript-questions/index.html
 * Explain `Function.prototype.bind`.
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain "hoisting".
+* What is type coercion? What are common pitfalls of relying on type coercion in JavaScript code?
 * Describe event bubbling.
 * Describe event capturing.
 * What's the difference between an "attribute" and a "property"?
@@ -51,6 +52,7 @@ permalink: /questions/javascript-questions/index.html
 * Why you might want to create static class members?
 * What is the difference between `while` and `do-while` loops in JavaScript?
 * What is a promise? Where and how would you use promise?
+* Discuss how you might use Object Oriented Programming principles when coding with JavaScript.
 
 ## Coding questions
 * Make this work:
